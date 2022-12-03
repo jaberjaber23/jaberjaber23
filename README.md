@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jaber Jaber</h1>
-<h3 align="center">Enthusiastic about Artificial Intelligence and Data Science</h3>
+<h3 align="center">Data Scientist</h3>
 <img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/f0a77ec73fd9feefdc64657a8b6f80ef/tumblr_nbvogcvEux1r51vveo1_400.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaberjaber23&label=Profile%20views&color=0e75b6&style=flat" alt="jaberjaber23" /> </p>
