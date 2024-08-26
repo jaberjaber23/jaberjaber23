@@ -1,4 +1,3 @@
-[![MasterHead](     https://erpinnews.com/wp-content/uploads/2017/12/amazonai-hiring-banner-1440x425-1-1.jpg)](https://rishavchanda.io)
 
 
 
