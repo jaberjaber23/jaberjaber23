@@ -12,7 +12,7 @@
 
 <br>
 ```
-Building AGI on an RTX 1080
+building agi on an rtx 1080
 ```
 
 <br>
@@ -51,14 +51,5 @@ Building AGI on an RTX 1080
 </td>
 </tr>
 </table>
-
-<br>
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<br>
-
-<sup>**[rightnow-cli](https://github.com/RightNow-AI/rightnow-cli)** · cuda-aware profiling tools</sup>
 
 </div>
