@@ -10,7 +10,7 @@
 
 **Founder** → [RightNow AI](https://www.rightnowai.co)
 <br>
-building agi on an rtx 1080
+building agi on an rtx 1060
 <br>
 
 ### STACK
