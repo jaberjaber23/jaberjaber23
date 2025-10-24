@@ -8,17 +8,12 @@
 
 ## JABER
 
-**Founder & CEO** → [RightNow AI](https://www.rightnowai.co)
-
+**Founder** → [RightNow AI](https://www.rightnowai.co)
 <br>
-```
 building agi on an rtx 1080
-```
-
 <br>
 
 ### STACK
-
 `cuda` `c++` `python` `pytorch`  
 `typescript` `react` `electron`
 
@@ -27,7 +22,6 @@ building agi on an rtx 1080
 ### CONNECT
 
 [**x**](https://x.com/akashi203) · [**linkedin**](https://linkedin.com/in/jaber-jaber-b65246234) · **jaberib647@gmail.com**
-
 <br>
 
 </td>
