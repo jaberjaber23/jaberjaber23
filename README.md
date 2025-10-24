@@ -1,109 +1,77 @@
 <div align="center">
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JABER&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+## JABER
 
-<br>
+**Founder & CEO** → [RightNow AI](https://www.rightnowai.co)
+```
+Making GPUs scream
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF95&center=true&vCenter=true&random=false&width=800&lines=AI+Researcher+%7C+ML+Engineer+%7C+CUDA+Engineer;Full+Stack+Dev+%7C+Desktop+Apps+%7C+Designer;Making+GPUs+go+brrrr+%E2%9A%A1%EF%B8%8F)](https://git.io/typing-svg)
+### BUILDING
 
-<br>
+**CUDA-native code editor**  
+Inline Nsight profiling  
+Hardware-aware AI  
+Real-time optimization
 
+### FOCUS
+```
+→ cuda kernels
+→ warp optimization  
+→ nsight compute
+→ ai-assisted compilation
+```
+
+### STACK
+
+`cuda` `c++` `python` `pytorch`  
+`typescript` `react` `electron`
+
+### CONNECT
+
+[**x**](https://x.com/akashi203) · [**linkedin**](https://linkedin.com/in/jaber-jaber-b65246234) · **jaberib647@gmail.com**
+
+</td>
+<td width="50%" valign="top">
 ```
     ║█║ ║█║ ║█║ ║█║ ║█║ ║█║
     ╔═╧═╧═╧═╧═╧═╧═╧═╧═╧═╧═╗
 ║█║═╣▓▓▓▓▓▓▓▓▓GPU▓▓▓▓▓▓▓╠═║█║
 ║█║═╣▓╔═══════════════╗▓╠═║█║
 ║█║═╣▓║ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ║▓╠═║█║      ┌──────────┐
-║█║═╣▓║ ▄ ▄ CUDA  ▄ ▄ ║▓╠═║█║════●═│ RightNow │
-║█║═╣▓║ ▄ ▄ CORES ▄ ▄ ║▓╠═║█║●═════│    AI    │
-║█║═╣▓║ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ║▓╠═║█║══●═══│  Editor  │
-║█║═╣▓╚═══════════════╝▓╠═║█║      └──────────┘
-║█║═╣▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓╠═║█║
+║█║═╣▓║ ▄ ▄ CUDA  ▄ ▄ ║▓╠═║█║      │          │
+║█║═╣▓║ ▄ ▄ CORES ▄ ▄ ║▓╠═║█║      │ RightNow │
+║█║═╣▓║ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ║▓╠═║█║      │    AI    │
+║█║═╣▓╚═══════════════╝▓╠═║█║      │          │
+║█║═╣▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓╠═║█║      └──────────┘
     ╚═╤═╤═╤═╤═╤═╤═╤═╤═╤═╤═╝
     ║█║ ║█║ ║█║ ║█║ ║█║ ║█║
 ```
 
-<br>
-
-### 🚀 what i do
-
-**Founder & CEO** @ [RightNow AI](https://www.rightnowai.co) — making cuda development less painful
-
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 ```
-ai researcher        → training models that understand GPU architectures
-ml engineer          → optimizing kernels until they cry for mercy
-cuda engineer        → yes, I debug warps in my sleep
-full stack dev       → backend, frontend, and everything in between
-desktop app dev      → electron? sure. native? yep.
-designer             → making things look good AND run fast
+WARP 0-31   [████████] 100%
+WARP 32-63  [████████] 100%
+MEMORY BW   [██████░░]  89%
+OCCUPANCY   [████████] 100%
 ```
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF95&center=true&vCenter=true&random=false&width=400&lines=Real-time+profiling;Hardware-aware+optimization;Making+your+GPU+scream)](https://git.io/typing-svg)
 
-### 🎯 current mission
-
-building a **cuda-native code editor** that profiles your kernels in real-time  
-because switching between your IDE and nsight compute is so 2023
-
-<br>
-
-### 🔧 stack
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,cuda,linux,typescript,react,electron,vscode,figma&theme=dark" />
-
-<br>
-
-### 📊 fun stats
-
+</td>
+</tr>
+</table>
 ```
-☕ Coffee consumed:        ████████████████████ ∞
-🐛 Bugs created:          ████████░░░░░░░░░░░░ 420
-🔥 GPUs melted:           ███░░░░░░░░░░░░░░░░░ 3 (sorry nvidia)
-😴 Sleep schedule:        ░░░░░░░░░░░░░░░░░░░░ what's that?
-🎨 Design iterations:     ████████████████░░░░ too many
-⚡ GPU utilization:       ████████████████████ 98% (we don't do 100%)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-<br>
-
-### 🧩 projects worth checking
-
-| project | vibe | status |
-|---------|------|--------|
-| **[rightnow-cli](https://github.com/RightNow-AI/rightnow-cli)** | cuda profiling but make it agentic | 🟢 live |
-| **cuda-bench** | reproducible kernels & metrics | 🟡 wip |
-| **arabictext-large** | 244m-word arabic corpus for llms | 🟢 live |
-
-<br>
-
-### 💭 random thoughts
-
-> "if your gpu isn't screaming, you're not optimizing hard enough"
-
-> "sleep is for people who don't have warp divergence issues"
-
-> "yes, I can design it. no, it won't look like bootstrap."
-
-<br>
-
-### 🌐 find me
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akashi203)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaber-jaber-b65246234)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaberib647@gmail.com)
-
-<br>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-        currently caffeinated and debugging kernel launches
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<sup>**[rightnow-cli](https://github.com/RightNow-AI/rightnow-cli)** · cuda-aware profiling tools</sup>
 
 </div>
